@@ -1,5 +1,6 @@
 # Discord-Bad-Words-Blocker-Bot
 This was custom commission, but it's was never used on any public servers so i decided to leak it on my github.
+**Don't forget to put config.json,discord_bad_words.txt,package-lock.json into discord-filter-bot folder**
 
 ## Installation (One-time setup)
 
