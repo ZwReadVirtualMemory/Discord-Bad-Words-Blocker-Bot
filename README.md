@@ -19,7 +19,7 @@ This was custom commission, but it's was never used on any public servers so i d
 ## Starting the Bot
 
 ```powershell
-cd "c:\Users\YOURUSER\OneDrive\Desktop\w.i.p stuff\discord-filter-bot"  (where folder with bot located on your pc)
+cd (where folder with bot located on your pc)
 node src/index.js
 ```
 
@@ -28,7 +28,7 @@ The bot will start and display:
 [Loader] Loaded command: /setup
 [Loader] Loaded command: /words
 ...
-[Bot] Logged in as calamari ban word testing bot#5824 — serving 1 guild(s).
+[Bot] Logged in as (your bot name) — serving 1 guild(s).
 ```
 
 ## Deploy Slash Commands (Run once after setup)
