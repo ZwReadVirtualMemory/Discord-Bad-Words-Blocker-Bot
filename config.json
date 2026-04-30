@@ -1,0 +1,14 @@
+{
+  "guilds": {
+    "1491847488444043315": {
+      "logChannelId": null,
+      "blockedWordsChannelId": null,
+      "ignoredRoles": "",
+      "ignoredChannels": [],
+      "channelRoleOverrides": {},
+      "adminRoles": [],
+      "autoMuteEnabled": false,
+      "messageDeleteTimeout": 5000
+    }
+  }
+}
